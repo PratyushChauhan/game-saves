@@ -1,0 +1,12 @@
+// This file is for local settings only and will not be cloud synchronized
+configVersion 9
+r_materialAniso "16"
+r_waterLodViewDistance "32"
+r_waterInterleaveUpdates "0"
+r_windowPosY "38"
+r_windowPosX "9"
+r_mode "16"
+r_motionBlurQuality "0"
+r_blurRadialScale "0"
+r_blurRadialQuality "0"
+r_SSDOQuality "2"
